@@ -47,6 +47,8 @@ header{
 header h1{
     padding:20px 0 0;
     width: 30%;
+    font-family: 'Righteous', cursive;
+
 }
 
 header h1 a{
@@ -102,6 +104,8 @@ nav a {
     color: white;
     font-size: 4em;
     font-weight: bold;
+    font-family: 'Righteous', cursive;
+
 }
 
 /*======main======*/
